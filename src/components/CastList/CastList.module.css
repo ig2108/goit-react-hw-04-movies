@@ -1,0 +1,21 @@
+.castList {
+  margin-left: 20px;
+}
+
+.castItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.castItemImg {
+  height: 200px;
+  margin-bottom: 10px;
+}
+
+.castItemName {
+  font-weight: bold;
+  margin-bottom: 5px;
+}

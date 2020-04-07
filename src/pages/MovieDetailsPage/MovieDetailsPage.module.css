@@ -1,0 +1,18 @@
+.btnWrap {
+  margin: 10px 0 10px 20px;
+  text-align: left;
+}
+
+.filmSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-left: 20px;
+}
+
+.additionalBlock {
+  margin-left: 20px;
+  margin-top: 20px;
+  text-align: left;
+}

@@ -1,0 +1,20 @@
+.reviewsList {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.reviewItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-bottom: 10px;
+}
+
+.reviewItemAuthor {
+  margin-bottom: 5px;
+}
+
+.reviewItemContent {
+  text-align: left;
+}

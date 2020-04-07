@@ -1,0 +1,20 @@
+.filmsList {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  text-align: left;
+  width: 500px;
+  margin-left: 20px;
+}
+
+.filmsListItem {
+  text-align: left;
+}
+
+.filmsListItemTitle {
+  font-size: 16px;
+  line-height: 30px;
+  text-decoration: underline;
+  font-weight: bold;
+}

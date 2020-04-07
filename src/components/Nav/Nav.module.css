@@ -1,0 +1,42 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 20px 0;
+  height: 45px;
+  text-align: center;
+  background-color: #dadf9e;
+}
+
+.navList {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.navItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 45px;
+  width: 100px;
+}
+
+.navLink {
+  padding: 10px 20px;
+}
+
+.navItem:focus,
+.navItem:hover {
+  background-color: rgb(133, 124, 49);
+}
+
+.activeLink {
+  color: rgb(230, 21, 21);
+}
